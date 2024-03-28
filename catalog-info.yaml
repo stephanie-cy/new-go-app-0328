@@ -14,6 +14,7 @@ metadata:
     janus-idp.io/tekton: new-go-app-0328 
     backstage.io/kubernetes-id: new-go-app-0328 
     backstage.io/techdocs-ref: dir:. 
+    quay.io/repository-slug: neworgyangcao/donet-quay-annotation-0325
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
